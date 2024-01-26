@@ -1,3 +1,4 @@
 # cc_data
 
-''' jupyter nbconvert --to html demo.ipynb '''
+#### To convert notebook to html
+``` jupyter nbconvert --to html demo.ipynb ```
