@@ -1,4 +1,4 @@
 # cc_data
 
 #### To convert notebook to html
-``` jupyter nbconvert --to html demo.ipynb ```
+``` jupyter nbconvert --to html demo.ipynb --output ../web/eda.html ```
